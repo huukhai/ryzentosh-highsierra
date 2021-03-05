@@ -7,11 +7,11 @@
 ## Specification
 | **Component** | **Model** |
 | ------------- | --------- |
-| CPU | AMD Ryzen 7 2700X @ 3.8GHz |
-| Motherboard | ASUS ROG Strix B450-F Gaming |
+| CPU | AMD Ryzen 5 3600 @ 3.6GHz |
+| Motherboard | MSI B450 Pro VDH MAX |
 | GPU | NVDIA GTX 1060 6Gb |
-| RAM | 16GB Team Group Inc @ 3000MHz |
-| OS Disk (SSD) | SPNY CS1311b 256GB |
+| RAM | 16GB Gskill RIPJAWS @ 3000MHz |
+| OS Disk (SSD) | Fuhler 500GB |
 
 ### Software
 1. gibMacOS: https://github.com/corpnewt/gibMacOS
