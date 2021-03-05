@@ -279,7 +279,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -288,6 +288,22 @@
 				<string>IntelMausiEthernet.kext</string>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/IntelMausiEthernet</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>BundlePath</key>
+				<string>RealtekRTL8111.kext</string>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/RealtekRTL8111</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -1475,7 +1491,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>XXXXXXXXXX</string>
+			<string>D25327404CDF8YL1M</string>
 			<key>ROM</key>
 			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
@@ -1483,9 +1499,9 @@
 			<key>SystemProductName</key>
 			<string>iMac14,2</string>
 			<key>SystemSerialNumber</key>
-			<string>XXXXXXXX</string>
+			<string>D25L10S2F8JC</string>
 			<key>SystemUUID</key>
-			<string>XXXXXX-XXXX-XXXX-XXXX-XXXXXXX</string>
+			<string>F6CE95C5-83A9-4CC5-84CF-9EB935CBC833</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
